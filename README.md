@@ -1,12 +1,15 @@
-## Genpass
+## genpass
 
 genpass is a small little utility that generates secure passwords and prints to stdout.
+
 ![genpassgif](img/genpass.gif)
 
 passwords created with genpass can also be piped, allowing for use in a clipboard.
+
 ![genpasspipegif](img/genpass_pipe.gif)
 
 passwords can also be easily written to files easily.
+
 ![genpasscatgif](img/genpass_cat.gif)
 
 ### Build process
