@@ -8,4 +8,4 @@ requirements:
 - `GNU make`
 - `g++`
 
-If you have gnu make simply run 'make' and it should spit out a binary 'genpass'
+If you have gnu make simply run `make` and it should spit out a binary `genpass`
