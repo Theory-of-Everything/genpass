@@ -118,7 +118,7 @@ string generatePassword(int passLen)
 				// cout << "Numbers: " << passwd << "\n";
 				break;
 			case 2:
-				srand((unsigned int)time(NULL) + i + 1);
+				srand((unsigned int)time(NULL) + i + 3);
 				index = rand() % symLen;
 				passwd += symbolsArray[index];
 				// cout << "Symbols: " << passwd << "\n";
